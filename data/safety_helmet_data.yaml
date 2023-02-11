@@ -1,0 +1,7 @@
+train: C:/Users/Maathess/Desktop/TP_Safety_First/yolov7/dataset/images/train/
+val:  C:/Users/Maathess/Desktop/TP_Safety_First/yolov7/dataset/images/val/
+test: C:/Users/Maathess/Desktop/TP_Safety_First/yolov7/dataset/images/test/
+# number of classes
+nc: 3
+# class names
+names: ["helmet","person", "head"]
